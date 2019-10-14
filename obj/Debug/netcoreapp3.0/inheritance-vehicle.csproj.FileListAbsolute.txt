@@ -1,0 +1,11 @@
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle.deps.json
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle.runtimeconfig.json
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle.runtimeconfig.dev.json
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle.dll
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/bin/Debug/netcoreapp3.0/inheritance-vehicle.pdb
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/obj/Debug/netcoreapp3.0/inheritance-vehicle.csprojAssemblyReference.cache
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/obj/Debug/netcoreapp3.0/inheritance-vehicle.AssemblyInfoInputs.cache
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/obj/Debug/netcoreapp3.0/inheritance-vehicle.AssemblyInfo.cs
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/obj/Debug/netcoreapp3.0/inheritance-vehicle.dll
+/Users/cbarringer/workspace/csharp/exercises/inheritance-vehicle/obj/Debug/netcoreapp3.0/inheritance-vehicle.pdb
