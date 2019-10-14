@@ -2,8 +2,11 @@ using System;
 
 namespace inheritance_vehicle{
 
-    public class Ram : Vehicle {  // Gas powered truck
-        public double FuelCapacity { get; set; }
-        
-    }
+        public class Ram : Vehicle {  // Gas powered truck
+            public double FuelCapacity { get; set; }
+                
+            public override void Drive () {
+                    Console.WriteLine("The loud red Ram sings a sonlg like ChuggaChugga!");
+            }
+        }
 }

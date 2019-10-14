@@ -6,7 +6,7 @@ namespace inheritance_vehicle{
         public double FuelCapacity { get; set; }
 
         public override void Drive () {
-        Console.WriteLine("ZoooooomZoooooom!");
+        Console.WriteLine("The high flying purple Cessna goes ZoooooomZoooooom!");
        
 
         }
