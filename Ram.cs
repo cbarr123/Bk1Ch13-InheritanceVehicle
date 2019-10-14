@@ -6,7 +6,7 @@ namespace inheritance_vehicle{
             public double FuelCapacity { get; set; }
                 
             public override void Drive () {
-                    Console.WriteLine("The loud red Ram sings a sonlg like ChuggaChugga!");
+                    Console.WriteLine($"The loud {MainColor} Ram sings a sonlg like ChuggaChugga!");
             }
         }
 }
